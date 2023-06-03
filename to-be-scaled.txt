@@ -1,0 +1,4 @@
+resistors/resistor-2half-letter-back.png
+resistors/resistor-2half-letter-front.png
+resistors/resistor-full.png
+resistors/resistor-half.png
